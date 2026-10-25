@@ -1,0 +1,8 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Local copies of raw data are not committed; the data load from DAAG::ais
+data/
